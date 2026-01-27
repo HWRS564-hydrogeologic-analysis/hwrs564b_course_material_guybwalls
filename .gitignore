@@ -8,6 +8,7 @@ modflow/
 pinal_county_model/
 content_weekly/week_05/plots/*.png
 uv.lock
+LPR_redux/
 
 # C extensions
 *.so
